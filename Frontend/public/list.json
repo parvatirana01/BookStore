@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "name": "The Great Gatsby",
+    "category": "Free",
+    "price": 10.99,
+    "image": "https://example.com/images/great-gatsby.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "name": "Atomic Habits",
+    "category": "Self-help",
+    "price": 15.99,
+    "image": "https://example.com/images/atomic-habits.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Art of Computer Programming, Volume 1: Fundamental Algorithms",
+    "name": "The Art of Computer Programming",
+    "category": "Free",
+    "price": 89.99,
+    "image": "https://example.com/images/art-of-programming.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Educated: A Memoir",
+    "name": "Educated",
+    "category": "Free",
+    "price": 12.99,
+    "image": "https://example.com/images/educated.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Sapiens: A Brief History of Humankind",
+    "name": "Sapiens",
+    "category": "History",
+    "price": 19.99,
+    "image": "https://example.com/images/sapiens.jpg"
+  }
+]
